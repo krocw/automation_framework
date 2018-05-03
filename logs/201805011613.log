@@ -1,0 +1,27 @@
+2018-05-01 16:13:14,730 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-01 16:13:14,730 - BrowserEngine - INFO - The test server url is: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:13:22,318 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-01 16:13:27,551 - BrowserEngine - INFO - Open url: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:13:31,083 - BrowserEngine - INFO - Maximize the current window.
+2018-05-01 16:13:31,093 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2018-05-01 16:13:31,153 - BasePage - INFO - Had type ' 你真漂亮 ' in inputBox
+2018-05-01 16:13:31,425 - BasePage - INFO - The element ' 开始预测 ' was clicked.
+2018-05-01 16:13:33,505 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-01 16:13:36,007 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-01 16:13:36,007 - BrowserEngine - INFO - The test server url is: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:13:44,562 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-01 16:13:49,295 - BrowserEngine - INFO - Open url: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:13:52,829 - BrowserEngine - INFO - Maximize the current window.
+2018-05-01 16:13:52,839 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2018-05-01 16:13:53,390 - BasePage - INFO - Had type ' 这是一部好电影。 ' in inputBox
+2018-05-01 16:13:53,660 - BasePage - INFO - The element ' 开始预测 ' was clicked.
+2018-05-01 16:13:55,791 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-01 16:13:58,291 - BrowserEngine - INFO - You had select Firefox browser.
+2018-05-01 16:13:58,291 - BrowserEngine - INFO - The test server url is: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:14:05,885 - BrowserEngine - INFO - Starting firefox browser.
+2018-05-01 16:14:10,612 - BrowserEngine - INFO - Open url: http://kyonhuang.top/sentiment-analysis-webapp/
+2018-05-01 16:14:14,136 - BrowserEngine - INFO - Maximize the current window.
+2018-05-01 16:14:14,146 - BrowserEngine - INFO - Set implicitly wait 5 seconds.
+2018-05-01 16:14:14,687 - BasePage - INFO - Had type ' 这里的饭很好吃，下次还会来。 ' in inputBox
+2018-05-01 16:14:14,937 - BasePage - INFO - The element ' 开始预测 ' was clicked.
+2018-05-01 16:14:17,039 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
