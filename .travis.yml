@@ -4,4 +4,6 @@ python:
 install:
   - pip install selenium
 script:
-  - py.test
+  - python test_canting.py test
+  - python test_douban.py test
+  - python test_snownlp.py test
