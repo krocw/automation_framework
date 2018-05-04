@@ -7,26 +7,27 @@ selenium 实现简单的 web 自动化测试框架
 
 ## Preparation
 
-### install selenium
+1. install selenium
 
 ```shell
 pip install selenium
 ```
 
-### download web drivers for Firefox, Google Chrome & IE Explorer
-### you can find them in folder \tools 
-### put the driver into the folder where python is installed on your computer
+2. download web drivers for Firefox, Google Chrome & IE Explorer, you can find them in folder \tools 
 
-### the project uses Firefox on default
+3. put the driver into the folder where python is installed on your computer
 
-### download and import this project into pycharm IDE, then run it
+## Run
+1. the project uses Firefox on default
+
+2. download and import this project into pycharm IDE, then run it
 
 ## Usage
 
-### the test scripts will be written under folder \testsuites. script name better begins with test_
-### write the test functions in each script, function name must begin with test_, function setUp() and tearDown() don't need modification
-### give the chinese text as the parameter of function homepage.send_textarea() and the corresponding rating number in try block
-### finally, add the test case in TestRunner.py, see the cases already written
+1. the test scripts will be written under folder \testsuites. script name better begins with test_
+2. write the test functions in each script, function name must begin with test_, function setUp() and tearDown() don't need modification。
+3. give the chinese text as the parameter of function homepage.send_textarea() and the corresponding rating number in try block
+4. finally, add the test case in TestRunner.py, see the cases already written
 
 ```shell
 suite.addTest(className('functionName'))
